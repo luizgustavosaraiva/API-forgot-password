@@ -11,6 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeORM](https://typeorm.io/#/)
 - [Express](https://expressjs.com/pt-br/)
 - [Postgres SQL](https://www.postgresql.org/)
+- [Nodemailer](https://nodemailer.com/about/)
 
 ## 💻 Projeto
 
